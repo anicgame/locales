@@ -22,7 +22,12 @@
             "title": "Welcome back!",
             "subtitle": "Get back into your game account"
         },
-        "message": "First time here? Sign up"
+        "message": "First time here? Sign up",
+
+        "error": {
+            "mistake": "Wrong password",
+            "server_error": "Can't reach the server"
+        }
     },
     "register": {
         "header": {
