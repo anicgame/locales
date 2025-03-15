@@ -35,5 +35,12 @@
             "subtitle": "Start your journey"
         },
         "message": "Already have a account? Log in"
+    },
+
+    "ui": {
+        "chat": {
+            "title": "Chat",
+            "mutual": "ALL"
+        }
     }
 }
