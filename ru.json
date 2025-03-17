@@ -41,6 +41,9 @@
         "chat": {
             "title": "Чат",
             "mutual": "ОБЩИЙ"
+        },
+        "orientationwarn": {
+            "title": "Переверните ваше устройство"
         }
     }
 }

@@ -41,6 +41,9 @@
         "chat": {
             "title": "Chat",
             "mutual": "ALL"
+        },
+        "orientationwarn": {
+            "title": "Rotate your device"
         }
     }
 }
