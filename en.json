@@ -43,7 +43,8 @@
             "mutual": "ALL"
         },
         "orientationwarn": {
-            "title": "Rotate your device"
+            "title": "Rotate your device",
+            "subtitle": "Horizontally"
         }
     }
 }
