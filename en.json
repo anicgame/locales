@@ -40,7 +40,8 @@
     "ui": {
         "chat": {
             "title": "Chat",
-            "mutual": "ALL"
+            "mutual": "ALL",
+            "entermessage": "Enter the message"
         },
         "orientationwarn": {
             "title": "Rotate your device",

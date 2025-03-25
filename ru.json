@@ -40,7 +40,8 @@
     "ui": {
         "chat": {
             "title": "Чат",
-            "mutual": "ОБЩИЙ"
+            "mutual": "ОБЩИЙ",
+            "entermessage": "Введите сообщение"
         },
         "orientationwarn": {
             "title": "Переверните ваше устройство",
